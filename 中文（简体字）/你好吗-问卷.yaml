@@ -1,0 +1,215 @@
+标题: “你好吗？”问卷
+子标题: 让朋友认识内在的你
+献给谁:
+    你特别希望将“你好吗？”的答案发给谁: 自己
+    日期:
+
+PURSUITS: # 我的追求
+
+    Y1: # 为何？ (你目前的专业兴趣领域是什么？)
+
+        # - interest: 专业兴趣名称
+        #   cause: 感兴趣的原因？
+
+        - interest:
+          cause:
+
+        - interest:
+          cause:
+
+    Y2: # 怎样做 (你觉得哪些方法或理念可以在这些领域带来突破？)
+
+        # - idea: 想法的名称
+        #   description: 它如何起作用？
+
+        - idea:
+          description:
+
+        - idea:
+          description:
+
+    Y3: # 什么项目？ (哪些你的个人或公司项目在尝试以上的方法或理念？)
+
+        # - project: 项目名称
+        #   activity: 具体的做法
+
+        - project:
+          activity:
+
+        - project:
+          activity:
+
+
+HAPPINESS: # 我的幸福
+
+    # HFRME (健康、财务、关系，意义和体验)让人感到快乐，
+    # 识别和修复它们能让我们更开心！
+
+    HEALTH: # 健康
+        - H1: # 知觉
+
+            # - issue: 有什么不舒服或疼痛？
+            #   fix: 如何应对它们？
+
+            - issue:
+              fix:
+
+            - issue:
+              fix:
+
+        - H2: # 长寿
+
+            # - risk: 面临什么类型的风险？
+            #   fix: 怎么办呢？
+
+            - risk:
+              fix:
+
+            - risk:
+              fix:
+
+    FINANCE: # 财务
+
+        - F1: # 如果你有无限的$$$，你会喜欢哪些商品或服务？
+
+            # What goods/services you’d indulge in if you had unlimited $$$?
+
+            # - product: 哪些商品或服务？
+            #   where: 哪里可以得到它？
+            #   satisfies: 估计花费* 你预计（每年）花多少钱来达到最大满意度？
+
+            - product:
+              where:
+              satisfies:
+
+            - product:
+              where:
+              satisfies:
+
+        - F2: # 哪些事项目前能给你带来最大的快乐？选择3-4项
+
+            # - asset: 事项
+            #   choice: 打√ (写true)
+            #   where: 哪里可以得到它
+
+            - asset: 宇宙旅行
+              choice:
+              where:
+            - asset: 有价值的工作团队/公司
+              choice:
+              where:
+            - asset: 为重要目标一起工作的有能力人
+              choice:
+              where:
+            - asset: 更高品质的食物
+              choice:
+              where:
+            - asset: 更多喝方便的身体锻炼
+              choice:
+              where:
+            - asset: 更多的美容
+              choice:
+              where:
+            - asset: 更经常的旅行和会见特别的朋友
+              choice:
+              where:
+            - asset: 访问稀有的特定设施或设备
+              choice:
+              where:
+            - asset: 访问某些信息或网络服务
+              choice:
+              where:
+            - asset: 获得先进的医疗（药品，生物工程制品，医学检测设施）
+              choice:
+              where:
+            - asset: 思想上传
+              choice:
+              where:
+            - asset: (其他，请在下方填写)
+              choice:
+              where:
+
+    RELATIONSHIPS: # 关系
+
+        - R1: # 确定你希望改善关系的人，为每个关系定义你觉得最佳的行动：
+
+            # 可以用参考字符或代名词，想象如何改善／优化:
+            #
+            # - who: 选择何人（参考字符或代名词）
+            #   action: 如何改善：设想你的行动
+            #   why: 为何？
+
+            - who:
+              action:
+              why:
+
+            - who:
+              action:
+              why:
+
+            # 对于还不存在的人，希望世界里存在这样的人，请在下方描述他/她
+
+    MEANING: # 意义
+
+        # “我存在的价值是什么？”除了生活本身，请提出你生活中可行的“更高目的”。
+        # 一些人在下面列出的事物中找到了意义。
+
+        - M1: # 标记最多5个适用于你的意义或者编写自己的意义：
+
+            # - activity: 对我来说最有意义的事
+            #   check: 打√ (写true)
+
+            - activity: 改善社会和爱人类社会
+              check:
+            - activity: 培养孩子和爱个人
+              check:
+            - activity: 和朋友一起游历和冒险
+              check:
+            - activity: 解决问题，激发创意和创新
+              check:
+            - activity: 精神上的亲密与合作
+              check:
+            - activity: 身体的亲密和探索
+              check:
+            - activity: 艺术，文学，感受，表达
+              check:
+            - activity: 技术创新和创造理想系统的工程
+              check:
+            - activity: 学习数学 和解开宇宙的奥秘
+              check:
+            - activity: 其他（请在下方填写）
+              check:
+
+    EXPERIENCES: # 体验
+
+        # 在很大程度上，我们的幸福与生活的经历相联系。
+
+        - E1: # 写下你希望明天发生的经历：
+
+            # - want: what would you like to happen
+            #   todo: what to do about it?
+
+            - want:
+              todo:
+
+            - want:
+              todo:
+
+        - E2: # 写下您希望未来几个月可以体验的经历：
+
+            - want:
+              todo:
+
+            - want:
+              todo:
+
+        - E3: # 写下你希望未来若干年可以体验的经历：
+
+            - want:
+              todo:
+
+            - want:
+              todo:
+
+Ending words: 让关心你的朋友知道：在任何特定的时间，可能的世界都比我们能够想象的更大。
+References: 此问卷基于 WeFindX 研究。最新版在 https://github.com/wefindx/how-are-you
