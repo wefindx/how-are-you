@@ -97,37 +97,37 @@ HAPPINESS: # My Happiness
             - asset: Space travel
               choice:
               where:
-            - asset class: Valuable companies
+            - asset: Valuable companies
               choice:
               where:
-            - asset class: Great people for important tasks
+            - asset: Great people for important tasks
               choice:
               where:
-            - asset class: Higher quality food
+            - asset: Higher quality food
               choice:
               where:
-            - asset class: Exercising more often and conveniently
+            - asset: Exercising more often and conveniently
               choice:
               where:
-            - asset class: Beauty and looking better more often
+            - asset: Beauty and looking better more often
               choice:
               where:
-            - asset class: Travel and meeting specific friends more often
+            - asset: Travel and meeting specific friends more often
               choice:
               where:
-            - asset class: Accessing rare specific facilities and equipment
+            - asset: Accessing rare specific facilities and equipment
               choice:
               where:
-            - asset class: Accessing certain information or network services
+            - asset: Accessing certain information or network services
               choice:
               where:
-            - asset class: Accessing advanced medicine, bioengineering
+            - asset: Accessing advanced medicine, bioengineering
               choice:
               where:
-            - asset class: Mind upload
+            - asset: Mind upload
               choice:
               where:
-            - asset class: (something else, write your own)
+            - asset: (something else, write your own)
               choice:
               where:
 
