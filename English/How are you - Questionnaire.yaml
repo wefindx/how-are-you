@@ -1,0 +1,220 @@
+Title: “How are you?” Questionnaire
+Subtitle: A questionnaire to help friends understand and help friends.
+Dedication:
+    Who do you write this to: self
+    Date:
+
+PURSUITS: # My Pursuits
+
+    Y1: # Why? (what are your current professional interests?):
+
+        # - interest: description of the interest
+        #   cause: why interested?
+
+        - interest:
+          cause:
+
+        - interest:
+          cause:
+
+    Y2: # How? (what are the methods or principles that you believe could bring breakthroughs in these areas?):
+
+        # - idea: name of idea
+        #   description: how it would work?
+
+        - idea:
+          description:
+
+        - idea:
+          description:
+
+    Y3: # What? (what are your projects/companies trying these methods?):
+
+        # - project: name of project/company
+        #   activity: what it is doing?
+
+        - project:
+          activity:
+
+        - project:
+          activity:
+
+
+HAPPINESS: # My Happiness
+
+    # HFRME (Health, Finance, Relationships, Meaning, Experiences) make people feel happy.
+    # Identifying and fixing them thus can make us more happy!
+
+    HEALTH:
+        - H1: # (Discomforts or pains)
+
+            # - issue: What discomfort or pain
+            #   fix: What to do about it?
+
+            - issue:
+              fix:
+
+            - issue:
+              fix:
+
+        - H2: # (Risks to longevity)
+
+            # - risk: What type of risk
+            #   fix: What to do about it?
+
+            - risk:
+              fix:
+
+            - risk:
+              fix:
+
+    FINANCE:
+
+        - F1: #(Spending in case of unlimited cash)
+
+            # What goods/services you’d indulge in if you had unlimited $$$?
+
+            # - product: what goods or services?
+            #   where: where available
+            #   satisfies: estimated need = guess how much you’d spend per year to max satisfaction?
+
+            - product:
+              where:
+              satisfies:
+
+            - product:
+              where:
+              satisfies:
+
+        - F2: #(Asset classes for jump in happiness)
+
+            # Which 3-4 of these would give you most happiness right now?
+
+            # - asset: asset class
+            #   choice: true
+            #   where: Where to get
+
+            - asset: Space travel
+              choice:
+              where:
+            - asset: Valuable companies
+              choice:
+              where:
+            - asset: Great people for important tasks
+              choice:
+              where:
+            - asset: Higher quality food
+              choice:
+              where:
+            - asset: Exercising more often and conveniently
+              choice:
+              where:
+            - asset: Beauty and looking better more often
+              choice:
+              where:
+            - asset: Travel and meeting specific friends more often
+              choice:
+              where:
+            - asset: Accessing rare specific facilities and equipment
+              choice:
+              where:
+            - asset: Accessing certain information or network services
+              choice:
+              where:
+            - asset: Accessing advanced medicine, bioengineering
+              choice:
+              where:
+            - asset: Mind upload
+              choice:
+              where:
+            - asset: (something else, write your own)
+              choice:
+              where:
+
+    RELATIONSHIPS:
+        - R1: # (People to improve relationships, and how)
+
+            # Identify people, the relationships with whom you’d like to improve:
+            #
+            # Assign a letter to person, and then define an action or operation that
+            # you have to do about each of them, for things to change in the way
+            # that makes you feel the optimal:
+            #
+            # - who: letter reference
+            #   action: action or operation
+            #   why: what good would happen if you did
+
+            - who:
+              action:
+              why:
+
+            - who:
+              action:
+              why:
+
+            # Have someone doesn’t exist yet, describe.
+
+    MEANING:
+
+        # A good answer to question to one’s purpose in life provides an actionable
+        # “higher purposes” making their existence worthwhile, so some find meaning
+        # in the things listed below.
+
+        - M1: # (Most meaningful purposes)
+
+            # Mark up to 5 of those that apply to you, or write your own:
+            #
+            # - activity: activity most meaningful to me
+            #   check:
+
+            - activity: Improving society and social love
+              check:
+            - activity: Fostering kids and personal love
+              check:
+            - activity: Being with friends and adventures
+              check:
+            - activity: Problem solving, ideas and innovation
+              check:
+            - activity: Mental intimacy and collaboration
+              check:
+            - activity: Physical intimacy and exploration
+              check:
+            - activity: Art, emotions and expression
+              check:
+            - activity: Technological creativity and ideal systems engineering
+              check:
+            - activity: Studying math and solving the mystery of the Universe.
+              check:
+            - activity: Something else (describe)
+              check:
+
+    EXPERIENCES:
+        - E1: # (things want/expect to happen tomorrow)
+
+            # - want: what would you like to happen
+            #   todo: what to do about it?
+
+            - want:
+              todo:
+
+            - want:
+              todo:
+
+        - E2: # (things want/expect to happen during coming months)
+
+            - want:
+              todo:
+
+            - want:
+              todo:
+
+        - E3: # (things want/expect to happen over future many years)
+
+            - want:
+              todo:
+
+            - want:
+              todo:
+
+Ending words: Let friends who care of you know. The world of possibilities is greater than we imagine at any particular time.
+References: The Questionnaire is based on WeFindX research at https://github.com/wefindx/how-are-you
