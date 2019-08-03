@@ -28,7 +28,7 @@ PURSUITS: # 我的追求
         - idea:
           description:
 
-    Y3: # 什么项目？ (哪些你的个人或公司项目在尝试以上的方法或理念？)
+    Y3: # 做什么？ (哪些你的个人或公司项目在尝试以下的方法或理念？)
 
         # - project: 项目名称
         #   activity: 具体的做法
@@ -43,12 +43,12 @@ PURSUITS: # 我的追求
 HAPPINESS: # 我的幸福
 
     # HFRME (健康、财务、关系，意义和体验)让人感到快乐，
-    # 识别和修复它们能让我们更开心！
+    # 找到问题并修复它们能让我们更开心！
 
     HEALTH: # 健康
         - H1: # 知觉
 
-            # - issue: 有什么不舒服或疼痛？
+            # - issue: 有什么不适？
             #   fix: 如何应对它们？
 
             - issue:
@@ -76,7 +76,7 @@ HAPPINESS: # 我的幸福
 
             # - product: 哪些商品或服务？
             #   where: 哪里可以得到它？
-            #   satisfies: 估计花费* 你预计（每年）花多少钱来达到最大满意度？
+            #   satisfies: 预计花费* 你预计（每年）花多少钱来达到最大满意度？
 
             - product:
               where:
@@ -98,22 +98,22 @@ HAPPINESS: # 我的幸福
             - asset: 有价值的工作团队/公司
               choice:
               where:
-            - asset: 为重要目标一起工作的有能力人
+            - asset: 为重要目标一起工作的伙伴
               choice:
               where:
             - asset: 更高品质的食物
               choice:
               where:
-            - asset: 更多喝方便的身体锻炼
+            - asset: 更多更行之有效的锻炼
               choice:
               where:
-            - asset: 更多的美容
+            - asset: 变得更漂亮
               choice:
               where:
-            - asset: 更经常的旅行和会见特别的朋友
+            - asset: 更频繁的旅行和与重要朋友的会面
               choice:
               where:
-            - asset: 访问稀有的特定设施或设备
+            - asset: 探索稀有的神秘设施或装备
               choice:
               where:
             - asset: 访问某些信息或网络服务
@@ -136,7 +136,7 @@ HAPPINESS: # 我的幸福
             # 可以用参考字符或代名词，想象如何改善／优化:
             #
             # - who: 选择何人（参考字符或代名词）
-            #   action: 如何改善：设想你的行动
+            #   action: 如何改善：设想你该如何行动
             #   why: 为何？
 
             - who:
@@ -147,7 +147,7 @@ HAPPINESS: # 我的幸福
               action:
               why:
 
-            # 对于还不存在的人，希望世界里存在这样的人，请在下方描述他/她
+            # 对于还不存在的，但希望在世界里存在的人，请在下方描述他/她
 
     MEANING: # 意义
 
@@ -159,9 +159,9 @@ HAPPINESS: # 我的幸福
             # - activity: 对我来说最有意义的事
             #   check: 打√ (写true)
 
-            - activity: 改善社会和爱人类社会
+            - activity: 改善社会与社会中的爱
               check:
-            - activity: 培养孩子和爱个人
+            - activity: 培养孩子和爱自己
               check:
             - activity: 和朋友一起游历和冒险
               check:
@@ -175,7 +175,7 @@ HAPPINESS: # 我的幸福
               check:
             - activity: 技术创新和创造理想系统的工程
               check:
-            - activity: 学习数学 和解开宇宙的奥秘
+            - activity: 学习数学并解开宇宙的奥秘
               check:
             - activity: 其他（请在下方填写）
               check:
